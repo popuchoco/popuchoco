@@ -58,10 +58,24 @@
 | [Disk Resource Mover](https://github.com/popuchoco/DiskResourceMover) | 依自訂規則監看磁碟用量，將過期檔案與資料夾移往正確的位置。 |
 | [Network Diagnostic Tool](https://github.com/popuchoco/NetworkDiagTool) | 把 Ping、TCP、路由、DNS、ARP、Proxy 與網卡狀態集中在一個 Windows 診斷介面。 |
 | [Rho Viewer](https://github.com/popuchoco/Rho-Viewer) | 瀏覽與分析 `.rho` 封存檔，預覽、匯出並播放其中的音訊資源。 |
+| [Android Network Diag](https://github.com/popuchoco/android-network-diag) | 在 Android 上驗證 DNS、HTTPS、網路狀態與公開 IP，並比較網路變更前後的實際連線結果。 |
 
 <p>
   <a href="https://github.com/popuchoco/NetworkDiagTool"><img alt="Network Diagnostic Tool repository" src="https://github-readme-stats.vercel.app/api/pin/?username=popuchoco&repo=NetworkDiagTool&theme=transparent&hide_border=true" width="49%"></a>
   <a href="https://github.com/popuchoco/Rho-Viewer"><img alt="Rho Viewer repository" src="https://github-readme-stats.vercel.app/api/pin/?username=popuchoco&repo=Rho-Viewer&theme=transparent&hide_border=true" width="49%"></a>
+  <a href="https://github.com/popuchoco/android-network-diag"><img alt="Android Network Diag repository" src="https://github-readme-stats.vercel.app/api/pin/?username=popuchoco&repo=android-network-diag&theme=transparent&hide_border=true" width="49%"></a>
+</p>
+
+## Web Game
+
+| Project | One-liner |
+| --- | --- |
+| [虹膜色彩校準｜Hue of the Fake](https://github.com/popuchoco/Alternate-Visual-Identification-Test) | 以色點辨讀與色相排序展開的短篇心理恐怖網頁遊戲，逐步讓校準結果與玩家記憶發生錯位。 |
+| [火鍋湯底過濾挑戰](https://github.com/popuchoco/hotpot-filter-simulator) | 在不同湯底、食材與工具間挑戰撈沫與撈油，完成各種限時關卡並解鎖成就。 |
+
+<p>
+  <a href="https://github.com/popuchoco/Alternate-Visual-Identification-Test"><img alt="Hue of the Fake repository" src="https://github-readme-stats.vercel.app/api/pin/?username=popuchoco&repo=Alternate-Visual-Identification-Test&theme=transparent&hide_border=true" width="49%"></a>
+  <a href="https://github.com/popuchoco/hotpot-filter-simulator"><img alt="Hotpot Filter Simulator repository" src="https://github-readme-stats.vercel.app/api/pin/?username=popuchoco&repo=hotpot-filter-simulator&theme=transparent&hide_border=true" width="49%"></a>
 </p>
 
 ## Toolbox
