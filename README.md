@@ -24,6 +24,7 @@
 - **IoT Rebuild** — 讓仍能工作的裝置擺脫過時 App 與雲端依賴。
 - **Meteorology Tool** — 把專業氣象資料轉成可解析、可比較、可視覺化的資訊。
 - **Third-Party Assist Tool** — 用小而實用的桌面工具，消除重複操作與診斷摩擦。
+- **NAS Operations** — 以唯讀檢查與可稽核證據，協助 QNAP NAS 維運與相容性診斷。
 
 ## IoT Rebuild
 
@@ -33,11 +34,6 @@
 | [Unofficial HTC RE Client](https://github.com/popuchoco/Unofficial-HTC-RE-Client) | 把 HTC RE 接回現代 Android：涵蓋 BLE 配網、Wi-Fi Direct、媒體傳輸與直播控制。 |
 | [Unofficial LG PuriCare Mini Client](https://github.com/popuchoco/Unofficial-LG-PuriCare-Mini-Client) | 讓 PuriCare Mini 在 Android 12+ 繼續呼吸：本機監測、風量控制與背景連線。 |
 
-<p>
-  <a href="https://github.com/popuchoco/Unofficial-TWM-MyAirS1-Client"><img alt="myAir S1 repository" src="https://github-readme-stats.vercel.app/api/pin/?username=popuchoco&repo=Unofficial-TWM-MyAirS1-Client&theme=transparent&hide_border=true" width="49%"></a>
-  <a href="https://github.com/popuchoco/Unofficial-LG-PuriCare-Mini-Client"><img alt="PuriCare Mini repository" src="https://github-readme-stats.vercel.app/api/pin/?username=popuchoco&repo=Unofficial-LG-PuriCare-Mini-Client&theme=transparent&hide_border=true" width="49%"></a>
-</p>
-
 ## Meteorology Tool
 
 | Project | One-liner |
@@ -45,11 +41,6 @@
 | [Typhoon TAC Parser](https://github.com/popuchoco/typhoon-tac-parser) | 將熱帶氣旋、航空與海象電碼解碼、驗證並翻譯成忠實的繁體中文。 |
 | [Typhoon Tracker](https://github.com/popuchoco/typhoon-tracker) | 在同一張工作台比較多機構颱風路徑、風圈、警戒區與人工預報線。 |
 | [Weather Tools](https://github.com/popuchoco/weather-tools) | 把 Dvorak、DVTS 趨勢與 ATCF 最佳路徑整理成可輸出圖表的 Windows 氣象工具箱。 |
-
-<p>
-  <a href="https://github.com/popuchoco/typhoon-tac-parser"><img alt="Typhoon TAC Parser repository" src="https://github-readme-stats.vercel.app/api/pin/?username=popuchoco&repo=typhoon-tac-parser&theme=transparent&hide_border=true" width="49%"></a>
-  <a href="https://github.com/popuchoco/typhoon-tracker"><img alt="Typhoon Tracker repository" src="https://github-readme-stats.vercel.app/api/pin/?username=popuchoco&repo=typhoon-tracker&theme=transparent&hide_border=true" width="49%"></a>
-</p>
 
 ## Third-Party Assist Tool
 
@@ -60,11 +51,11 @@
 | [Rho Viewer](https://github.com/popuchoco/Rho-Viewer) | 瀏覽與分析 `.rho` 封存檔，預覽、匯出並播放其中的音訊資源。 |
 | [Android Network Diag](https://github.com/popuchoco/android-network-diag) | 在 Android 上驗證 DNS、HTTPS、網路狀態與公開 IP，並比較網路變更前後的實際連線結果。 |
 
-<p>
-  <a href="https://github.com/popuchoco/NetworkDiagTool"><img alt="Network Diagnostic Tool repository" src="https://github-readme-stats.vercel.app/api/pin/?username=popuchoco&repo=NetworkDiagTool&theme=transparent&hide_border=true" width="49%"></a>
-  <a href="https://github.com/popuchoco/Rho-Viewer"><img alt="Rho Viewer repository" src="https://github-readme-stats.vercel.app/api/pin/?username=popuchoco&repo=Rho-Viewer&theme=transparent&hide_border=true" width="49%"></a>
-  <a href="https://github.com/popuchoco/android-network-diag"><img alt="Android Network Diag repository" src="https://github-readme-stats.vercel.app/api/pin/?username=popuchoco&repo=android-network-diag&theme=transparent&hide_border=true" width="49%"></a>
-</p>
+## NAS Operations
+
+| Project | One-liner |
+| --- | --- |
+| [QNAP NAS CLI](https://github.com/popuchoco/qnap-nas-cli) | 面向 QTS 5.x 的唯讀診斷 CLI／MCP：檢查 NAS 健康、儲存、RAID、磁碟拓樸、網路與 Tailscale／Container Station 狀態，並匯出已遮蔽的相容性資料；目前不提供 Synology-SA 事件掃描、封鎖或修復功能。 |
 
 ## Web Game
 
@@ -72,11 +63,7 @@
 | --- | --- |
 | [虹膜色彩校準｜Hue of the Fake](https://github.com/popuchoco/Alternate-Visual-Identification-Test) | 以色點辨讀與色相排序展開的短篇心理恐怖網頁遊戲，逐步讓校準結果與玩家記憶發生錯位。 |
 | [火鍋湯底過濾挑戰](https://github.com/popuchoco/hotpot-filter-simulator) | 在不同湯底、食材與工具間挑戰撈沫與撈油，完成各種限時關卡並解鎖成就。 |
-
-<p>
-  <a href="https://github.com/popuchoco/Alternate-Visual-Identification-Test"><img alt="Hue of the Fake repository" src="https://github-readme-stats.vercel.app/api/pin/?username=popuchoco&repo=Alternate-Visual-Identification-Test&theme=transparent&hide_border=true" width="49%"></a>
-  <a href="https://github.com/popuchoco/hotpot-filter-simulator"><img alt="Hotpot Filter Simulator repository" src="https://github-readme-stats.vercel.app/api/pin/?username=popuchoco&repo=hotpot-filter-simulator&theme=transparent&hide_border=true" width="49%"></a>
-</p>
+| [夜嵐夜市](https://github.com/popuchoco/yelan-night-market) | 以 2.5D 斜視角經營台灣港邊夜市，管理菜單、備料與人員，在每日營運和夜市事件中逐步擴店。 |
 
 ## Toolbox
 
@@ -86,11 +73,6 @@
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-<div align="center">
-  <img alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=popuchoco&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165">
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=popuchoco&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165">
-</div>
 
 ---
 
