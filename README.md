@@ -56,6 +56,7 @@
 | Project | One-liner |
 | --- | --- |
 | [QNAP NAS CLI](https://github.com/popuchoco/qnap-nas-cli) | 面向 QTS 5.x 的唯讀診斷 CLI／MCP：檢查 NAS 健康、儲存、RAID、磁碟拓樸、網路與 Tailscale／Container Station 狀態，並匯出已遮蔽的相容性資料；目前不提供 Synology-SA 事件掃描、封鎖或修復功能。 |
+| [AdGuard Home QNAP Extension](https://github.com/popuchoco/AdGuard-Home-QNAP-Extension) | 為 TS-431K／ARMv7 設計的低資源唯讀監控 Dashboard，整合 AdGuard Home、Uptime Kuma、QTS 與 QuRouter；目前 repository 提供設計與 API 契約，尚未部署成品。 |
 
 ## Web Game
 
