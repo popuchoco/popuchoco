@@ -25,8 +25,7 @@
 - **Meteorology Tool** — 把專業氣象資料轉成可解析、可比較、可視覺化的資訊。
 - **Third-Party Assist Tool** — 用小而實用的桌面工具，消除重複操作與診斷摩擦。
 - **NAS Operations** — 以唯讀檢查與可稽核證據，協助 QNAP NAS 維運與相容性診斷。
-- **Everyday Web Tools** — 把日常計算做成免安裝、重視隱私的網頁工具。
-- **Interactive Stories** — 用生活場景呈現選擇與判斷線索，不以單一分數評斷使用者。
+- **Education Projects** — 用生活數學與日常情境，打造可親自探索的工具與故事。
 
 ## IoT Rebuild
 
@@ -60,17 +59,12 @@
 | [QNAP NAS CLI](https://github.com/popuchoco/qnap-nas-cli) | 面向 QTS 5.x 的唯讀診斷 CLI／MCP：檢查 NAS 健康、儲存、RAID、磁碟拓樸、網路與 Tailscale／Container Station 狀態，並匯出已遮蔽的相容性資料；目前不提供 Synology-SA 事件掃描、封鎖或修復功能。 |
 | [AdGuard Home QNAP Extension](https://github.com/popuchoco/AdGuard-Home-QNAP-Extension) | 為 TS-431K／ARMv7 設計的低資源唯讀監控 Dashboard，整合 AdGuard Home、Uptime Kuma、QTS 與 QuRouter；目前 repository 提供設計與 API 契約，尚未部署成品。 |
 
-## Everyday Web Tools
+## Education Projects
 
-| Project | One-liner |
-| --- | --- |
-| [現金怎麼配｜新台幣拆鈔計算器](https://github.com/popuchoco/how-much-NTD-for-this) | 精確列出新台幣紙鈔與硬幣的拆分組合及補足配法；純前端運作，金額不儲存也不上傳。 |
-
-## Interactive Stories
-
-| Project | One-liner |
-| --- | --- |
-| [你有禮貌嗎？](https://github.com/popuchoco/how-dare-you) | 以六個日常情境探索禮貌與公共場合判斷的互動故事，提供思考線索而非禮貌分數或人格排名。 |
+| Project | Focus | One-liner |
+| --- | --- | --- |
+| [現金怎麼配｜新台幣拆鈔計算器](https://github.com/popuchoco/how-much-NTD-for-this) | 金錢與數學素養 | 精確計算新台幣紙鈔與硬幣的拆分組合及補足配法，並以生活例子練習估算與捨入；純前端，金額不儲存也不上傳。 |
+| [你有禮貌嗎？](https://github.com/popuchoco/how-dare-you) | 生活禮儀與公共情境 | 透過六個家庭與公共場所情境，思考禮貌、現場指引與彼此需求；不設分數或人格排名。 |
 
 ## Web Game
 
