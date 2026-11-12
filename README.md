@@ -24,8 +24,9 @@
 - **IoT Rebuild** — 讓仍能工作的裝置擺脫過時 App 與雲端依賴。
 - **Meteorology Tool** — 把專業氣象資料轉成可解析、可比較、可視覺化的資訊。
 - **Third-Party Assist Tool** — 用小而實用的桌面工具，消除重複操作與診斷摩擦。
-- **NAS Operations** — 以唯讀檢查與可稽核證據，協助 QNAP NAS 維運與相容性診斷。
-- **Education Projects** — 用生活數學與日常情境，打造可親自探索的工具與故事。
+- **NAS Operations** — 涵蓋 NAS 監控、唯讀診斷與本機檔案空間原型。
+- **Education Projects** — 用生活數學、經營模擬與日常情境，打造可親自探索的工具與故事。
+- **Computer Games** — 以互動情境、經營模擬與策略玩法呈現故事與系統。
 
 ## IoT Rebuild
 
@@ -58,6 +59,7 @@
 | --- | --- |
 | [QNAP NAS CLI](https://github.com/popuchoco/qnap-nas-cli) | 面向 QTS 5.x 的唯讀診斷 CLI／MCP：檢查 NAS 健康、儲存、RAID、磁碟拓樸、網路與 Tailscale／Container Station 狀態，並匯出已遮蔽的相容性資料；目前不提供 Synology-SA 事件掃描、封鎖或修復功能。 |
 | [AdGuard Home QNAP Extension](https://github.com/popuchoco/AdGuard-Home-QNAP-Extension) | 為 TS-431K／ARMv7 設計的低資源唯讀監控 Dashboard，整合 AdGuard Home、Uptime Kuma、QTS 與 QuRouter；目前 repository 提供設計與 API 契約，尚未部署成品。 |
+| [Project Nanako](https://github.com/popuchoco/Project-Nanako) | Windows 本機檔案空間原型，提供使用者／權限、檔案管理與私人網路 HTTPS 存取；SMB 尚未實作，並非正式 NAS 替代品。 |
 
 ## Education Projects
 
@@ -65,14 +67,15 @@
 | --- | --- | --- |
 | [現金怎麼配｜新台幣拆鈔計算器](https://github.com/popuchoco/how-much-NTD-for-this) | 金錢與數學素養 | 精確計算新台幣紙鈔與硬幣的拆分組合及補足配法，並以生活例子練習估算與捨入；純前端，金額不儲存也不上傳。 |
 | [你有禮貌嗎？](https://github.com/popuchoco/how-dare-you) | 生活禮儀與公共情境 | 透過六個家庭與公共場所情境，思考禮貌、現場指引與彼此需求；不設分數或人格排名。 |
+| [夜嵐夜市](https://github.com/popuchoco/yelan-night-market) | 經營與經濟素養 | 以 2.5D 斜視角經營台灣港邊夜市，體驗成本、現金流、投資與會計週期。 |
 
-## Web Game
+## Computer Games
 
 | Project | One-liner |
 | --- | --- |
 | [虹膜色彩校準｜Hue of the Fake](https://github.com/popuchoco/Alternate-Visual-Identification-Test) | 以色點辨讀與色相排序展開的短篇心理恐怖網頁遊戲，逐步讓校準結果與玩家記憶發生錯位。 |
 | [火鍋湯底過濾挑戰](https://github.com/popuchoco/hotpot-filter-simulator) | 在不同湯底、食材與工具間挑戰撈沫與撈油，完成各種限時關卡並解鎖成就。 |
-| [夜嵐夜市](https://github.com/popuchoco/yelan-night-market) | 以 2.5D 斜視角經營台灣港邊夜市，管理菜單、備料與人員，在每日營運和夜市事件中逐步擴店。 |
+| [Project-TWN｜臺灣選戰模擬器](https://github.com/popuchoco/Project-TWN) | 以 Rust 打造的虛構臺灣選戰命令列策略遊戲，包含全國／地方選舉、候選人／幕僚與人民罷免模式；不是民調預測器。 |
 
 ## Toolbox
 
