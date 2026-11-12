@@ -2,10 +2,9 @@
 
 # P.Choco
 
-### IoT Rebuild · Meteorology · Practical Tools
+### Android & IoT · Weather Data · Local-first Tools
 
-把停止維護的裝置重新接回現代，把颱風資料翻成可用資訊，  
-也做一些替 Windows 收拾麻煩的小工具。
+讓舊裝置延續使用，把氣象資料與系統診斷變成可靠、可驗證的工具。
 
 <br>
 
@@ -19,14 +18,21 @@
 
 ## What I build
 
-我喜歡處理那些「硬體還好好的，只是軟體先離場」的問題，也把氣象電碼、颱風路徑與日常維運需求，整理成能直接使用的工具。
+我喜歡處理那些「硬體還好好的，只是軟體先離場」的問題；也重視可驗證的資料、清楚的能力邊界與本機優先設計。
 
-- **IoT Rebuild** — 讓仍能工作的裝置擺脫過時 App 與雲端依賴。
-- **Meteorology Tool** — 把專業氣象資料轉成可解析、可比較、可視覺化的資訊。
-- **Third-Party Assist Tool** — 用小而實用的桌面工具，消除重複操作與診斷摩擦。
-- **NAS Operations** — 涵蓋 NAS 監控、唯讀診斷與本機檔案空間原型。
-- **Education Projects** — 用生活數學、經營模擬與日常情境，打造可親自探索的工具與故事。
-- **Computer Games** — 以互動情境、經營模擬與策略玩法呈現故事與系統。
+- **Android & Systems** — Android IoT 復原、網路診斷、NAS 維運與 Windows 工具。
+- **Weather & Data** — 氣象電碼解析、颱風路徑比較與衛星強度分析。
+- **Web & Interactive** — 日常計算、教育故事、經營模擬與策略遊戲。
+
+## 技術與取向
+
+| 領域 | 技術與實作 |
+| --- | --- |
+| Android／IoT | Kotlin、Java、BLE、Wi-Fi Direct；舊裝置相容、連線與本機控制。 |
+| 氣象資料 | WMO／ICAO TAC、ATCF、Dvorak／DVTS；解析、驗證、比較與視覺化。 |
+| 系統工具 | Python、Rust、C#、VB.NET；CLI／MCP、Windows 工具、QNAP QTS 唯讀診斷。 |
+| Web | HTML、CSS、JavaScript；純前端工具、互動故事與遊戲。 |
+| 工程取向 | Local-first、隱私優先、唯讀優先、明確標示限制；重視自動化測試與 GitHub Actions CI。 |
 
 ## IoT Rebuild
 
@@ -76,15 +82,6 @@
 | [虹膜色彩校準｜Hue of the Fake](https://github.com/popuchoco/Alternate-Visual-Identification-Test) | 以色點辨讀與色相排序展開的短篇心理恐怖網頁遊戲，逐步讓校準結果與玩家記憶發生錯位。 |
 | [火鍋湯底過濾挑戰](https://github.com/popuchoco/hotpot-filter-simulator) | 在不同湯底、食材與工具間挑戰撈沫與撈油，完成各種限時關卡並解鎖成就。 |
 | [Project-TWN｜臺灣選戰模擬器](https://github.com/popuchoco/Project-TWN) | 以 Rust 打造的虛構臺灣選戰命令列策略遊戲，包含全國／地方選舉、候選人／幕僚與人民罷免模式；不是民調預測器。 |
-
-## Toolbox
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
