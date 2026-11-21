@@ -30,7 +30,7 @@
 | --- | --- |
 | Android／IoT | Kotlin、Java、BLE、Wi-Fi Direct；舊裝置相容、連線與本機控制。 |
 | 氣象資料 | WMO／ICAO TAC、ATCF、Dvorak／DVTS；解析、驗證、比較與視覺化。 |
-| 系統工具 | Python、Rust、C#、VB.NET；CLI／MCP、Windows 工具、QNAP QTS 唯讀診斷。 |
+| 系統工具 | Python、Rust、C#、VB.NET；CLI／MCP、Windows 工具、QNAP／ASUSTOR NAS 診斷。 |
 | Web | HTML、CSS、JavaScript；純前端工具、互動故事與遊戲。 |
 | 工程取向 | Local-first、隱私優先、唯讀優先、明確標示限制；重視自動化測試與 GitHub Actions CI。 |
 
@@ -64,6 +64,7 @@
 | Project | One-liner |
 | --- | --- |
 | [QNAP NAS CLI](https://github.com/popuchoco/qnap-nas-cli) | 面向 QTS 5.x 的唯讀診斷 CLI／MCP：檢查 NAS 健康、儲存、RAID、磁碟拓樸、網路與 Tailscale／Container Station 狀態，並匯出已遮蔽的相容性資料；目前不提供 Synology-SA 事件掃描、封鎖或修復功能。 |
+| [ASUSTOR NAS CLI](https://github.com/popuchoco/asustor-nas-cli) | 面向 ADM 的安全優先 CLI／唯讀 MCP：檢查系統、儲存、RAID、磁碟拓樸與 SMART，並進行有限範圍的 DeadBolt 指標稽核；平台驅動模組操作僅於相容性驗證與明確確認後開放。 |
 | [AdGuard Home QNAP Extension](https://github.com/popuchoco/AdGuard-Home-QNAP-Extension) | 為 TS-431K／ARMv7 設計的低資源唯讀監控 Dashboard，整合 AdGuard Home、Uptime Kuma、QTS 與 QuRouter；目前 repository 提供設計與 API 契約，尚未部署成品。 |
 | [Project Nanako](https://github.com/popuchoco/Project-Nanako) | Windows 本機檔案空間原型，提供使用者／權限、檔案管理與私人網路 HTTPS 存取；SMB 尚未實作，並非正式 NAS 替代品。 |
 
